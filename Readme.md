@@ -1,3 +1,3 @@
 # Neural Network from Scratch
-## 01 Introduction
-This branch contains the course materials for introduction video. You can watch the video at [here](https://www.youtube.com/watch?v=gCHuE6Vaz88)
+## 02 Perceptron
+This branch contains course material for perceptron video. In this video we go through the details of perceptron and implement and train a perceptron model in python. You can watch the video at here.
